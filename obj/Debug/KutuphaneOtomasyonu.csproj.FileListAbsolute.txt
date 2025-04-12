@@ -1,0 +1,36 @@
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe.config
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.pdb
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.AssemblyReference.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Form1.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.exe
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.pdb
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Form2.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\bin\Debug\KutuphaneOtomasyonu.exe.config
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\bin\Debug\KutuphaneOtomasyonu.exe
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\bin\Debug\KutuphaneOtomasyonu.pdb
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\KutuphaneOtomasyonu.csproj.AssemblyReference.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\KutuphaneOtomasyonu.Form1.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\KutuphaneOtomasyonu.Form2.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\KutuphaneOtomasyonu.exe
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\KutuphaneOtomasyonu.pdb
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\kutuphane.Form3.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\KutuphaneOtomasyonu.Form4.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\kutuphane_otomosyonu.Form5.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\KutuphaneOtomasyonu.csproj.AssemblyReference.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\KutuphaneOtomasyonu.Form1.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\KutuphaneOtomasyonu.Form2.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\KutuphaneOtomasyonu.Form3.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\KutuphaneOtomasyonu.Form4.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\KutuphaneOtomasyonu.Form5.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\KutuphaneOtomasyonu.exe
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\KutuphaneOtomasyonu.pdb

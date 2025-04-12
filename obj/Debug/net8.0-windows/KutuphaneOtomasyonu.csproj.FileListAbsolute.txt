@@ -1,0 +1,160 @@
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form1.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form2.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form3.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form4.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form5.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.exe
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.dll.config
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.deps.json
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.runtimeconfig.json
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.pdb
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\net8.0-windows\refint\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.pdb
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.genruntimeconfig.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya - Kopya\obj\Debug\net8.0-windows\ref\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.exe
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.dll.config
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.deps.json
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.runtimeconfig.json
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.pdb
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form1.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form2.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form3.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form4.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form5.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme\obj\Debug\net8.0-windows\refint\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.pdb
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.genruntimeconfig.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme\obj\Debug\net8.0-windows\ref\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.exe
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.dll.config
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.deps.json
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.runtimeconfig.json
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.pdb
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form1.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form2.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form3.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form4.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form5.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme - Kopya\obj\Debug\net8.0-windows\refint\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.pdb
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.genruntimeconfig.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Eksik Üye ekleme - Kopya\obj\Debug\net8.0-windows\ref\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.exe
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.dll.config
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.deps.json
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.runtimeconfig.json
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.pdb
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form1.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form2.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form3.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form4.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form5.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya\obj\Debug\net8.0-windows\refint\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.pdb
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.genruntimeconfig.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya\obj\Debug\net8.0-windows\ref\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.exe
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.dll.config
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.deps.json
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.runtimeconfig.json
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.pdb
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form1.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form2.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form3.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form4.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form5.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya - Kopya\obj\Debug\net8.0-windows\refint\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.pdb
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.genruntimeconfig.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Düzeltildi Ama Durum kısmı düzeltilecek - Kopya - Kopya\obj\Debug\net8.0-windows\ref\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.exe
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.dll.config
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.deps.json
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.runtimeconfig.json
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.pdb
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form1.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form2.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form3.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form4.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form5.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\net8.0-windows\refint\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.pdb
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.genruntimeconfig.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu\obj\Debug\net8.0-windows\ref\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.exe
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.dll.config
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.deps.json
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.runtimeconfig.json
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.pdb
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form1.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form2.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form3.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form4.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form5.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\net8.0-windows\refint\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.pdb
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.genruntimeconfig.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - Kopya\obj\Debug\net8.0-windows\ref\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - deneme\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.exe
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - deneme\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.dll.config
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - deneme\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.deps.json
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - deneme\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.runtimeconfig.json
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - deneme\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - deneme\bin\Debug\net8.0-windows\KutuphaneOtomasyonu.pdb
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - deneme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form1.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - deneme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form2.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - deneme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form3.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - deneme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form4.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - deneme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Form5.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - deneme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - deneme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.csproj.GenerateResource.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - deneme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - deneme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - deneme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - deneme\obj\Debug\net8.0-windows\refint\KutuphaneOtomasyonu.dll
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - deneme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.pdb
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - deneme\obj\Debug\net8.0-windows\KutuphaneOtomasyonu.genruntimeconfig.cache
+C:\OneDrive\Desktop\KutuphaneOtomasyonu - deneme\obj\Debug\net8.0-windows\ref\KutuphaneOtomasyonu.dll
